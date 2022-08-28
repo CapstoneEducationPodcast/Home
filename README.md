@@ -1,5 +1,5 @@
 # About Us
-<font size="+5"><b>Inspiring Knowledge for the Future<b></font>
+<font size="+5"><b>Inspiring Knowledge for the Future</b></font>
 
 
 
